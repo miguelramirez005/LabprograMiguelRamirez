@@ -1,0 +1,8 @@
+C:\Users\ppcos\OneDrive\VisualStudio\L5_PC_1054723_Ciclo_2\L5_PC_1054723_Ciclo_2\bin\Debug\L8_PC_1054723_Ciclo_2.exe.config
+C:\Users\ppcos\OneDrive\VisualStudio\L5_PC_1054723_Ciclo_2\L5_PC_1054723_Ciclo_2\bin\Debug\L8_PC_1054723_Ciclo_2.exe
+C:\Users\ppcos\OneDrive\VisualStudio\L5_PC_1054723_Ciclo_2\L5_PC_1054723_Ciclo_2\bin\Debug\L8_PC_1054723_Ciclo_2.pdb
+C:\Users\ppcos\OneDrive\VisualStudio\L5_PC_1054723_Ciclo_2\L5_PC_1054723_Ciclo_2\obj\Debug\L5_PC_1054723_Ciclo_2.csproj.AssemblyReference.cache
+C:\Users\ppcos\OneDrive\VisualStudio\L5_PC_1054723_Ciclo_2\L5_PC_1054723_Ciclo_2\obj\Debug\L5_PC_1054723_Ciclo_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ppcos\OneDrive\VisualStudio\L5_PC_1054723_Ciclo_2\L5_PC_1054723_Ciclo_2\obj\Debug\L5_PC_1054723_Ciclo_2.csproj.CoreCompileInputs.cache
+C:\Users\ppcos\OneDrive\VisualStudio\L5_PC_1054723_Ciclo_2\L5_PC_1054723_Ciclo_2\obj\Debug\L8_PC_1054723_Ciclo_2.exe
+C:\Users\ppcos\OneDrive\VisualStudio\L5_PC_1054723_Ciclo_2\L5_PC_1054723_Ciclo_2\obj\Debug\L8_PC_1054723_Ciclo_2.pdb
